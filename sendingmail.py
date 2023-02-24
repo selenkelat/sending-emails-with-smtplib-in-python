@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 10 18:08:33 2023
 
-@author: selen
-"""
 
 import smtplib
 s = smtplib.SMTP("smtp.gmail.com", 587)
